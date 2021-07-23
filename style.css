@@ -1,0 +1,31 @@
+/* FONT COLLECTION */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+/* Utilities and Common Classes */
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+
+/* Nav Section */
+
+
+
+
+
+
+/* Carousel Section Styling */
+
